@@ -1,2 +1,2 @@
 # hello-world
-prints hello message
+prints hello message with your name in it
